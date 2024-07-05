@@ -22,3 +22,5 @@ GitHub CLI extension for mapping repo owners/orgs to your filesystem.
 
   `gh repo clone pandas-dev/pandas` from anywhere on your system should now clone into `~/Contrib/pandas`.
 
+Or maybe should this be a feature of [pj](https://github.com/coherent-oss/pj)?
+
