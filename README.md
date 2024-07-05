@@ -1,4 +1,8 @@
 # gh-fs
+
+> [!Important]
+> Work in progress.
+
 GitHub CLI extension for mapping repo owners/orgs to your filesystem.
 
 ## Idea
