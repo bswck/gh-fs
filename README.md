@@ -17,3 +17,8 @@ GitHub CLI extension for mapping repo owners/orgs to your filesystem.
 
   `cd ~/ && gh repo clone coherent-oss/build` should now clone into `~/Coherent/build`
 
+* Set a default clone destination folder for unknown orgs `?`
+  `gh fs set ? ~/Contrib`
+
+  `cd ~/ && gh repo clone pandas-dev/pandas` should now clone into `~/Contrib/pandas`
+
